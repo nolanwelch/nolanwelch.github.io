@@ -25,6 +25,9 @@
         "editor.tabCompletion": "on",
         "files.autoSaveDelay": 10000,
         "files.autoSaveWhenNoErrors": true,
-        "files.autoSaveWorkspaceFilesOnly": true
+        "files.autoSaveWorkspaceFilesOnly": true,
+        "git.decorations.enabled": true,
+        "explorer.decorations.colors": true,
+        "explorer.decorations.badges": true
     }
 }
