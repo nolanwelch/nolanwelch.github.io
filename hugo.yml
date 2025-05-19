@@ -3,6 +3,22 @@ languageCode: "en-us"
 title: "Nolan Welch"
 theme: ["PaperMod"]
 
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: "Hi, I'm Nolan. :wave:"
+    Content: I'm a linguist, developer, and humanist. I'm fascinated by the power of languages (both natural and formal) as contextual bridges, uniting minds :brain:, cultures :earth_americas:, and systems :link:.
+
+  socialIcons:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/nolan-welch/
+    - name: GitHub
+      url: https://github.com/nolanwelch/
+    - name: Email
+      url: mailto:devnw@outlook.com
+      
+
 menu:
   main:
     - identifier: about
