@@ -1,0 +1,23 @@
+baseURL: "https://nolanwelch.com/"
+languageCode: "en-us"
+title: "Nolan Welch"
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
