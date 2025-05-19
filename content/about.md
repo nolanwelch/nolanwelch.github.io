@@ -1,5 +1,5 @@
 +++
 title = "About Me"
 url = "/about/"
-summary =  "All about me"
+summary = "All about me"
 +++
