@@ -17,6 +17,8 @@ params:
       url: https://github.com/nolanwelch/
     - name: Email
       url: mailto:devnw@outlook.com
+
+  ShowReadingTime: true
       
 
 menu:
