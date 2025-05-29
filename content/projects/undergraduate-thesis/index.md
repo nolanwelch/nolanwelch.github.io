@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Thesis: Spanglish, Sentiment, and Syntax"
+title: "Emotion, Code-Switching, and the Limits of AI: My Undergraduate Thesis"
 author: Nolan Welch
 date: 2025-05-29
 url: "/projects/undergrad-thesis"
