@@ -4,6 +4,7 @@ author: Nolan Welch
 date: 2025-05-29
 url: "/blog/social-ai"
 description: "ChatGPT, Gemini, and Claude have brought language technology to humanity. How do we put humanity back in our language technology?"
+draft: true
 cover:
   image: "cover.png"
   alt: "A minimalist digital illustration with a pastel mint geometric background. On the left is a black-outlined side silhouette of a human head with a stylized brain inside. On the right is a visualization of a graph composed of interconnected black circles and lines."
