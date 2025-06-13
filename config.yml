@@ -26,6 +26,10 @@ menu:
       name: About Me
       url: /about/
       weight: 10
+    - identifier: resume
+      name: Resume
+      url: NolanWelch-Resume.pdf
+      weight: 15
     - identifier: projects
       name: Projects
       url: /projects/
