@@ -1,6 +1,5 @@
 +++
 title = "Bug Golf 👾⛳"
-url = "/projects/bug-golf"
 draft = true
 +++
 

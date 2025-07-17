@@ -13,7 +13,7 @@ cover:
 
 Over the past two years, I've been thinking seriously about "artificial intelligence" (mind the scare quotes), large language models, and the future of the humanities in an era increasingly dominated by 
 
-This post---which started as a [write-up of my undergraduate thesis](/projects/undergrad-thesis), but turned into "baby's first academic manifesto"---is an attempt at capturing some of the past two years' musings, articulating my research goals, and contributing to a broader conversation about what it means to 
+This post---which started as a [write-up of my undergraduate thesis](/blog/2025/05/undergraduate-thesis), but turned into "baby's first academic manifesto"---is an attempt at capturing some of the past two years' musings, articulating my research goals, and contributing to a broader conversation about what it means to 
 
 
 
