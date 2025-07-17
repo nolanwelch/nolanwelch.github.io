@@ -2,7 +2,6 @@
 title: "Emotion, Code-Switching, and the Limits of AI: My Undergraduate Thesis"
 author: Nolan Welch
 date: 2025-05-29
-url: "/projects/undergrad-thesis"
 description: "A brief reflection on my undergraduate honors thesis at UNC-Chapel Hill."
 cover:
   image: "cover.jpg"
