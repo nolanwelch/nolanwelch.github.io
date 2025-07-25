@@ -1,4 +1,4 @@
 ---
-title: "May 2025"
+title: "2025"
 ShowReadingTime: false
 ---
