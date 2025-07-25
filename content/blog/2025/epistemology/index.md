@@ -17,6 +17,8 @@ Setting aside the question of whether or not .
 
 The concern I hold goes beyond the use of large language models as tools to spread propaganda. In an age when a vast majority of digital (and all) communication takes place within the confines of vast social media networks whose owners have an "iffy", at best, relationship with the concept of freedom of speech, deciding the truth of a claim isn't just grounds for its rejection; it's grounds for removal.
 
+Donald Trump's EO on ["Preventing Woke AI in the Federal Government"](https://www.whitehouse.gov/presidential-actions/2025/07/preventing-woke-ai-in-the-federal-government/)
+
 # The problems with AI as general reasoners
 
 As someone who studied Computer Science and Linguistics in undergrad, I have a lot of opinions on the idea of "General Artificial Intelligence" and the idea that the path towards it is the development of large-scale text-based models---far too many to comfortably cover in this post.[^1] The long and short of it is: the real world is an incredibly complex thing, and languages are simply not built to serve as a proper model of it. Language facilitates communication between humans on the basis of shared cultural context, and that's it.
