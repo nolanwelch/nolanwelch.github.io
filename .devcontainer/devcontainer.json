@@ -1,26 +1,32 @@
 {
-    "name": "Nolan Welch Website",
-    "build": {
-        "dockerfile": "Dockerfile",
-        "context": ".."
+"name": "Nolan Welch Website",
+"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+"features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+        "version": "latest",
+        "extended": true
     },
-    "features": {
-        "ghcr.io/devcontainers/features/common-utils": {}
-    },
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "budparr.language-hugo-vscode",
-                "esbenp.prettier-vscode",
-                "ms-vsliveshare.vsliveshare",
-                "github.vscode-github-actions"
-            ],
-            "settings": {
-                "dev.containers.copyGitConfig": true,
-                "editor.formatOnSave": true,
-                "editor.defaultFormatter": null,
-                "editor.tabSize": 2
-            }
+    "ghcr.io/devcontainers/features/node:1": {
+        "version": "lts"
+    }
+},
+"customizations": {
+    "vscode": {
+        "extensions": [
+            "budparr.language-hugo-vscode",
+            "esbenp.prettier-vscode",
+            "ms-vsliveshare.vsliveshare",
+            "github.vscode-github-actions"
+        ],
+        "settings": {
+            "dev.containers.copyGitConfig": true,
+            "editor.formatOnSave": true,
+            "editor.defaultFormatter": null,
+            "editor.tabSize": 2
         }
     }
+},
+"forwardPorts": [
+    1313
+]
 }
