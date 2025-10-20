@@ -10,7 +10,8 @@ To wit, I've worked as:
 
 - A marketing (and later operations) executive for a [student-run escape room startup](https://chapelthrillescapes.com/)
 - A Spanish translator and interpreter ([yes, there's a difference](https://www.atanet.org/client-assistance/what-is-the-difference-between-translation-and-interpreting/))
-- A neuroscience lab technician at FIU (my current role!)
+- A neuroscience lab technician at FIU
+- A software developer at Amazon (my current role!)
 - A Kumon grader, a fundraising cold-caller ($53k in 9 months!), and a skating rink attendant
 
 ...Not necessarily in that order. My broad work experience, coupled with my strongly interdisciplinary academic interests, have given me a unique appreciation for overlaps, intersections, midpoints, and all things best considered jointly.
