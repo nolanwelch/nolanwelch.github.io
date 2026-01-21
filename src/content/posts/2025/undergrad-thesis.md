@@ -1,13 +1,8 @@
 ---
 title: "Emotion, Code-Switching, and the Limits of AI: My Undergraduate Thesis"
 author: Nolan Welch
-date: 2025-05-29
+pubDate: 2025-05-29
 description: "A brief reflection on my undergraduate honors thesis at UNC-Chapel Hill."
-cover:
-  image: "cover.jpg"
-  alt: "A photograph of whole painted eggs with different emotions against a background of blurred spices and a smooth gray wall."
-  caption: "Image by [Олег Мороз](https://unsplash.com/@tengyart)."
-  relative: true
 ---
 
 In my last year at UNC-Chapel Hill, I wrote an honors thesis that gave me the opportunity to connect my long-held interests in bilingualism, emotion, the structure of language, and good old machine learning. Working with [Dr. Lucia Binotti](https://romancestudies.unc.edu/faculty-member/lucia-binotti/), I set out to explore what happens when someone switches between Spanish and English mid-sentence.

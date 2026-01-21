@@ -2,7 +2,7 @@
 title: "The Threat of Privatized Epistemology"
 description: "Silicon Valley is making its proprietary, hallucinating, parroting homunculi the sole arbiters of truth. What could go wrong?"
 author: "Nolan Welch"
-date: 2025-05-22T04:14:54-08:00
+pubDate: 2026-12-31
 draft: true
 tags: ["LLMs", "AI", "Elon Musk", "Grok"]
 params:

@@ -1,7 +1,7 @@
 ---
 title: "The Sociolinguistic Horizons of Language Technology"
 author: Nolan Welch
-date: 2025-05-29
+pubDate: 2026-12-31
 description: "ChatGPT, Gemini, and Claude have brought language technology to humanity. How do we put humanity back in our language technology?"
 draft: true
 cover:
