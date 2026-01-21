@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostCard from "../components/PostCard.astro";
+import { getCollection } from "astro:content";
+
+const posts = (await getCollection("posts"))
+    .filter((post) => !post.data.draft)
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Terminal">
+    <h1>Nolan Welch</h1>
+    <div class="posts">
+        {posts.map((post) => <PostCard post={post} />)}
+    </div>
+</BaseLayout>
